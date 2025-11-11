@@ -5,10 +5,11 @@
 
 <!-- 👤 PROFILE PHOTO -->
 <p align="center">
-  <img src="./profile.jpg" alt="Mohammad Balqis" width="170" style="border-radius:50%; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
+  <img src="https://raw.githubusercontent.com/MohammadBalqis/MohammadBalqis/main/WhatsApp%20Image%202025-11-11%20at%201.51.12%20PM.jpeg" 
+       alt="Mohammad Balqis" width="170" style="border-radius:50%; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
 </p>
 
-<h3 align="center">🚀 Full Stack Web Developer (MERN) | Educator turned Engineer | Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Web Developer (MERN & Laravel) | Educator turned Engineer | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-balqis/">
@@ -27,11 +28,11 @@
 
 ## 👨‍💻 About Me  
 
-Hi, I’m **Mohammad Mounir Balqis** — a **Full Stack Web Developer** and former **English Educator**, passionate about building modern, efficient, and impactful digital systems.  
+Hi, I’m **Mohammad Mounir Balqis** — a **Full Stack Web Developer** and former **English Educator**, passionate about creating modern, efficient, and impactful digital solutions.  
 
-I combine the creativity of an educator with the precision of an engineer to deliver scalable **web applications and dashboards** that make businesses more efficient and learning more interactive.  
+I combine the creativity of a teacher with the precision of an engineer to build **scalable web applications and dashboards** that make businesses smarter and education more digital.  
 
-✨ I graduated from **The Digital Hub – Beirut Souks** program, where I built production-grade systems using the **MERN stack** and applied best practices in design and project management.
+✨ A graduate of **The Digital Hub – Beirut Souks**, I have developed production-ready systems using **MERN** and **Laravel** stacks, applying best practices in design, performance, and user experience.
 
 💡 *“From classrooms to code — empowering learning and business through technology.”*
 
@@ -40,20 +41,20 @@ I combine the creativity of an educator with the precision of an engineer to del
 ## 💼 Professional Highlights  
 
 - ✅ **Completed:** Vehicle Dealership Management & POS System (MERN)  
-  → A complete enterprise-level platform handling **inventory, sales, accounting, payroll, and reporting** with multi-role dashboards (Admin, Accountant, Clerk).
+  → A complete enterprise-level platform managing **inventory, accounting, payroll, and reporting**, featuring multi-role dashboards for Admin, Accountant, and Clerk.
 
-- ✅ **Completed:** The Digital Hub Website  
-  → A professional platform representing The Digital Hub, showcasing student projects, innovation programs, and digital transformation success stories.
+- ✅ **Completed:** The Digital Hub Website (Laravel)  
+  → A professional web platform built with **Laravel**, featuring a secure **dashboard, authentication, and role-based access control**, representing the Digital Hub’s digital programs and projects.
 
-- 🎯 Transitioned from **Educator → Full Stack Developer** in under 6 months through intense self-learning and project-based development.  
-- 💬 Specialized in **React.js**, **Node.js**, **Express.js**, and **MongoDB**, focusing on clean code and user-centered UI design.
+- 🎯 Transitioned from **Educator → Full Stack Developer** in under 6 months through structured self-learning and project-based practice.  
+- 💬 Specialized in **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Laravel**, focusing on reliability and clean UX/UI design.
 
 ---
 
 ## 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,javascript,bootstrap,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,laravel,php,html,css,javascript,bootstrap,git,github,figma,vscode" />
 </p>
 
 ---
@@ -61,7 +62,7 @@ I combine the creativity of an educator with the precision of an engineer to del
 ## 🚀 Completed Projects  
 
 ### ⚙️ [POS System for Vehicles](https://github.com/MohammadBalqis/POS-system-for-Vehicles)
-A full-featured **Vehicle Dealership Management and POS System** built with the **MERN stack**.  
+A full-featured **Vehicle Dealership Management and POS System** built using the **MERN stack**.  
 - 🔐 Multi-role dashboards: **Admin**, **Accountant**, **Clerk**  
 - 💵 Modules: **Sales, Expenses, Income, Payroll, Transactions**  
 - 📊 Features: **Dynamic Reports, Charts, Data Analytics**  
@@ -72,11 +73,14 @@ A full-featured **Vehicle Dealership Management and POS System** built with the 
 ---
 
 ### 💻 [The Digital Hub Website](https://github.com/MohammadBalqis/The-Digital-Hub-Website)
-A professional web portal for **The Digital Hub (Beirut Souks)** program.  
-- 🌍 Fully responsive and interactive frontend built with **React**  
-- 📄 Highlights **digital projects, courses, and youth innovation**  
-- 🧩 Structured with reusable React components and custom styling  
-- ⚙️ Optimized for accessibility and performance  
+A professional website for **The Digital Hub (Beirut Souks)**, built using **Laravel**.  
+- ⚙️ Developed with **Laravel Framework**, **Blade templates**, and **MySQL**  
+- 🔐 Includes **Authentication and Role-Based Access Control**  
+- 🌍 Fully responsive layout with dashboard and admin controls  
+- 🧩 Showcases digital learning initiatives, projects, and web solutions  
+- 🧠 Optimized for speed, maintainability, and accessibility  
+
+> 💡 *Showcases my Laravel full-stack capabilities in real-world use.*
 
 ---
 
