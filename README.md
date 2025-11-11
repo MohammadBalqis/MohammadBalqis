@@ -1,122 +1,120 @@
-# Mohammad Mounir Balqis
-
-**Full Stack Developer** | MERN & Laravel Specialist | Former Educator
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-balqis/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammad.balqis284@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/MohammadBalqis)
-
----
-
-## About Me
-
-Full Stack Developer with a unique background bridging education and engineering. I specialize in building scalable, production-ready web applications using modern JavaScript and PHP frameworks.
-
-**Background:** Transitioned from English Educator to Full Stack Developer, bringing strong communication skills, systematic problem-solving, and a passion for creating intuitive digital experiences.
-
-**Education:** Graduate of The Digital Hub – Beirut Souks
-
-> *"From classrooms to codebases — building technology that empowers learning and business."*
-
----
-
-## Technical Expertise
-
-**Frontend**  
-React.js • HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • Responsive Design
-
-**Backend**  
-Node.js • Express.js • Laravel • PHP • RESTful APIs
-
-**Database**  
-MongoDB • MySQL
-
-**Tools & Workflow**  
-Git & GitHub • VS Code • Figma • Agile Development
-
----
-
-## Featured Projects
-
-### 🚗 Vehicle Dealership Management & POS System
-**Stack:** MERN (MongoDB, Express.js, React.js, Node.js)  
-**Repository:** [View Project](https://github.com/MohammadBalqis/POS-system-for-Vehicles)
-
-Enterprise-grade dealership management platform with comprehensive business logic and multi-role access control.
-
-**Key Features:**
-- Role-based dashboards (Admin, Accountant, Clerk)
-- Complete financial management (sales, expenses, payroll)
-- Real-time reporting with data visualization
-- Transaction tracking and inventory management
-- Automated calculations and business intelligence
-
-**Technical Highlights:**
-- RESTful API architecture
-- JWT authentication & authorization
-- MongoDB aggregation pipelines for analytics
-- Responsive UI with dynamic data tables
-
----
-
-### 🌐 The Digital Hub Website
-**Stack:** Laravel, PHP, MySQL, Blade Templates  
-**Repository:** [View Project](https://github.com/MohammadBalqis/The-Digital-Hub-Website)
-
-Professional web platform showcasing digital learning programs and initiatives.
-
-**Key Features:**
-- Secure authentication system
-- Role-based access control
-- Admin dashboard for content management
-- Fully responsive design
-- Optimized performance and SEO
-
-**Technical Highlights:**
-- MVC architecture
-- Laravel Eloquent ORM
-- Blade templating engine
-- Database migrations and seeders
-
----
-
-## Professional Development
-
-**Key Milestones:**
-- Completed intensive full-stack training at The Digital Hub
-- Built two production-level applications from concept to deployment
-- Mastered modern development workflows and best practices
-- Achieved proficiency in both JavaScript and PHP ecosystems
-
-**Current Focus:**
-- Advancing skills in system architecture and scalability
-- Exploring cloud deployment solutions
-- Contributing to open-source projects
-- Staying current with emerging web technologies
-
----
-
-## GitHub Statistics
-
+<!-- 🌟 PROFILE BANNER -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadBalqis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBalqis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:0078D7&height=220&section=header&text=Hi%20There!%20I'm%20Mohammad%20Mounir%20Balqis%20👋&fontSize=30&fontColor=ffffff&fontAlignY=38" />
 </p>
 
+<!-- 👤 PROFILE PHOTO -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadBalqis&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/MohammadBalqis/MohammadBalqis/main/profile.jpg" 
+       alt="Mohammad Balqis" width="170" style="border-radius:50%; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
+</p>
+
+<h3 align="center">🚀 Full Stack Web Developer (MERN & Laravel) | Educator turned Engineer | Lifelong Learner</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-balqis/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammad.balqis284@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MohammadBalqis">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MohammadBalqis&label=Profile%20Views&color=0A74DA&style=flat-square" />
 </p>
 
 ---
 
-## Let's Connect
+## 👨‍💻 About Me  
 
-I'm always interested in collaborating on meaningful projects or discussing web development opportunities.
+Hi, I’m **Mohammad Mounir Balqis** — a **Full Stack Web Developer** and former **English Educator**, passionate about creating modern, efficient, and impactful digital solutions.  
 
-**Preferred Contact:** [LinkedIn](https://www.linkedin.com/in/mohammad-balqis/) | [Email](mailto:mohammad.balqis284@gmail.com)
+I combine the creativity of a teacher with the precision of an engineer to build **scalable web applications and dashboards** that make businesses smarter and education more digital.  
+
+✨ A graduate of **The Digital Hub – Beirut Souks**, I have developed production-ready systems using **MERN** and **Laravel** stacks, applying best practices in design, performance, and user experience.
+
+💡 *“From classrooms to code — empowering learning and business through technology.”*
+
+---
+
+## 💼 Professional Highlights  
+
+- ✅ **Completed:** Vehicle Dealership Management & POS System (MERN)  
+  → A complete enterprise-level platform managing **inventory, accounting, payroll, and reporting**, featuring multi-role dashboards for Admin, Accountant, and Clerk.
+
+- ✅ **Completed:** The Digital Hub Website (Laravel)  
+  → A professional web platform built with **Laravel**, featuring a secure **dashboard, authentication, and role-based access control**, representing the Digital Hub’s digital programs and projects.
+
+- 🎯 Transitioned from **Educator → Full Stack Developer** in under 6 months through structured self-learning and project-based practice.  
+- 💬 Specialized in **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **Laravel**, focusing on reliability and clean UX/UI design.
+
+---
+
+## 🧠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,laravel,php,html,css,javascript,bootstrap,git,github,figma,vscode" />
+</p>
+
+---
+
+## 🚀 Completed Projects  
+
+### ⚙️ [POS System for Vehicles](https://github.com/MohammadBalqis/POS-system-for-Vehicles)
+A full-featured **Vehicle Dealership Management and POS System** built using the **MERN stack**.  
+- 🔐 Multi-role dashboards: **Admin**, **Accountant**, **Clerk**  
+- 💵 Modules: **Sales, Expenses, Income, Payroll, Transactions**  
+- 📊 Features: **Dynamic Reports, Charts, Data Analytics**  
+- 🎨 Designed for **clarity, accuracy, and automation**
+
+> 📸 *Includes screenshots, database schema, and full demo.*
+
+---
+
+### 💻 [The Digital Hub Website](https://github.com/MohammadBalqis/The-Digital-Hub-Website)
+A professional website for **The Digital Hub (Beirut Souks)**, built using **Laravel**.  
+- ⚙️ Developed with **Laravel Framework**, **Blade templates**, and **MySQL**  
+- 🔐 Includes **Authentication and Role-Based Access Control**  
+- 🌍 Fully responsive layout with dashboard and admin controls  
+- 🧩 Showcases digital learning initiatives, projects, and web solutions  
+- 🧠 Optimized for speed, maintainability, and accessibility  
+
+> 💡 *Showcases my Laravel full-stack capabilities in real-world use.*
+
+---
+
+## 📊 GitHub Performance  
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadBalqis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBalqis&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=MohammadBalqis&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadBalqis&theme=tokyonight&no-frame=true&margin-w=8" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-balqis/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:mohammad.balqis284@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://github.com/MohammadBalqis"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Building the future, one commit at a time.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:0078D7&height=100&section=footer" />
 </p>
