@@ -5,7 +5,7 @@
 
 <!-- 👤 PROFILE PHOTO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadBalqis/MohammadBalqis/main/profile.jpeg" 
+  <img src="https://raw.githubusercontent.com/MohammadBalqis/MohammadBalqis/main/profile.jpg" 
        alt="Mohammad Balqis" width="170" style="border-radius:50%; box-shadow:0 0 10px rgba(0,0,0,0.3);" />
 </p>
 
