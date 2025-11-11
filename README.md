@@ -63,8 +63,6 @@ A full **Vehicle Dealership Management and POS System** built with the **MERN st
 - 🧰 Tech Used: MongoDB, Express.js, React, Node.js  
 - 🎨 Focused on clear UX/UI, reliability, and data integrity  
 
-> 📸 *Screenshots, database schema, and demo included in the repository.*
-
 ---
 
 ### 💻 [The Digital Hub Website](https://github.com/MohammadBalqis/The-Digital-Hub-Website)
