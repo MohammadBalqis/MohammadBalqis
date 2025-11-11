@@ -95,14 +95,6 @@ A professional website representing the **Digital Hub Program** in Beirut Souks.
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadBalqis/MohammadBalqis/output/dist/snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🌍 Connect with Me  
 
 <p align="center">
