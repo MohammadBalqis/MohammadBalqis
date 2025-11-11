@@ -68,8 +68,6 @@ A full-featured **Vehicle Dealership Management and POS System** built using the
 - 📊 Features: **Dynamic Reports, Charts, Data Analytics**  
 - 🎨 Designed for **clarity, accuracy, and automation**
 
-> 📸 *Includes screenshots, database schema, and full demo.*
-
 ---
 
 ### 💻 [The Digital Hub Website](https://github.com/MohammadBalqis/The-Digital-Hub-Website)
@@ -79,9 +77,6 @@ A professional website for **The Digital Hub (Beirut Souks)**, built using **Lar
 - 🌍 Fully responsive layout with dashboard and admin controls  
 - 🧩 Showcases digital learning initiatives, projects, and web solutions  
 - 🧠 Optimized for speed, maintainability, and accessibility  
-
-> 💡 *Showcases my Laravel full-stack capabilities in real-world use.*
-
 ---
 
 ## 📊 GitHub Performance  
