@@ -1,166 +1,240 @@
-<!-- 🌟 PROFILE BANNER -->
+<!-- ===========================
+PROFILE HEADER
+=========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:0078D7&height=220&section=header&text=Hi%20There!%20I'm%20Mohammad%20Mounir%20Balqis%20👋&fontSize=30&fontColor=ffffff&fontAlignY=38" />
-</p>
-
-<!-- 👤 PROFILE PHOTO -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadBalqis/MohammadBalqis/main/profile.jpg"
-       alt="Mohammad Balqis"
-       width="170" />
-</p>
-
-<h2 align="center">Full Stack Software Engineer | MERN & Laravel Developer | Project Manager | Former Educator</h2>
-
-<p align="center">
-Building scalable web applications, modern dashboards, and digital platforms that combine clean architecture with exceptional user experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:0078D7&height=240&section=header&text=Hi%20There!%20I'm%20Mohammad%20Mounir%20Balqis%20👋&fontSize=34&fontColor=ffffff&fontAlignY=38"/>
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/MohammadBalqis/MohammadBalqis/main/profile.jpg" width="180"/>
+</p>
+
+<h2 align="center">
+Full Stack Software Engineer • Project Manager • Technical Lead
+</h2>
+
+<p align="center">
+Building scalable digital platforms, enterprise dashboards, and modern web applications using Next.js, NestJS, PostgreSQL, and Laravel.
+</p>
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/mohammad-balqis/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohammad.balqis284@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MohammadBalqis">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=MohammadBalqis&label=Profile%20Views&color=0A74DA&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=MohammadBalqis&label=Profile%20Views&color=0078D7"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-I'm **Mohammad Mounir Balqis**, a **Full Stack Software Engineer** with experience designing and developing modern web applications using the **MERN** and **Laravel** ecosystems.
+I'm **Mohammad Mounir Balqis**, a **Full Stack Software Engineer**, **Project Manager**, and **Technical Lead** with experience building enterprise-grade web applications and digital platforms.
 
-My journey began as an English educator before transitioning into software engineering through intensive training at **The Digital Hub – Beirut Souks**. Today, I combine communication, leadership, and technical expertise to build software that solves real business problems.
+My journey began as an English educator before transitioning into software engineering through intensive training at **The Digital Hub – Beirut Souks**. Today, I combine communication, leadership, and technical expertise to lead software projects from planning and architecture to deployment.
 
-I enjoy transforming ideas into production-ready systems with a strong focus on:
+I enjoy transforming complex business requirements into scalable, maintainable software solutions.
 
-* Clean Architecture
-* Scalable Backend Development
-* Responsive UI/UX
-* Dashboard & Business Systems
-* Project Management
-* Team Collaboration
+## What I focus on
 
-> *"From classrooms to code—building technology that creates real impact."*
+- Enterprise Web Applications
+- Project Management
+- Software Architecture
+- Backend Development
+- Frontend Development
+- API Design
+- Database Design
+- Team Leadership
+- Clean Code
+- UI/UX
 
 ---
 
 # 💼 Professional Experience
 
-### 🚤 Project Manager & Full Stack Developer
+## 🚤 Project Manager & Lead Full Stack Developer
 
-**Zaitunay Bay Advanced Luxury Digital Platform**
+### Advanced Luxury Marina Digital Platform
 
-Currently leading the development of a complete digital ecosystem for one of Lebanon's most recognizable waterfront destinations.
+Leading the development of a complete enterprise digital ecosystem designed for luxury marina destinations.
 
 ### Responsibilities
 
-* Project Planning & Architecture
-* Backend Development (Node.js / Express)
-* Frontend Development (React)
-* Database Design
-* Feature Planning
-* Team Management
-* Git Workflow Management
-* Technical Documentation
-
-### Platform Features
-
-* Luxury Marina Website
-* Yacht Booking System
-* Hotel Reservation System
-* Restaurant Reservation
-* Event Booking
-* Interactive 3D Marina Maps
-* AI Assistant Integration
-* Tourism Platform
-* Customer Dashboard
-* Admin Dashboard
-* Analytics
-* Reviews & Ratings
-* Digital Visitor Experience
+- Project Planning
+- Software Architecture
+- Technical Leadership
+- Sprint Planning
+- Backend Development
+- Frontend Development
+- Database Design
+- Git Workflow Management
+- Internship Supervision
+- Code Review
+- Documentation
 
 ---
 
-# 🚀 Featured Projects
+# 🌊 Flagship Project
 
-## 🚤 Zaitunay Bay Advanced Luxury Digital Platform
+# Advanced Luxury Marina Digital Platform
 
-**Role:** Project Manager & Full Stack Developer
+An enterprise-grade tourism and hospitality platform that centralizes reservations, customer engagement, AI services, interactive maps, and business management into one scalable ecosystem.
 
-A next-generation luxury tourism platform designed for Zaitunay Bay that integrates reservations, AI services, interactive maps, hospitality management, and visitor engagement into one ecosystem.
+## Architecture
 
-### Technologies
-
-* React
-* Node.js
-* Express
-* MongoDB
-* Prisma
-* JWT Authentication
-* REST APIs
-* Interactive Maps
-* AI Integration
-
-### Highlights
-
-* Luxury UI/UX
-* Modular Architecture
-* Scalable Backend
-* Customer Dashboard
-* Admin Dashboard
-* Hotel Booking
-* Yacht Booking
-* Event Management
-* Restaurant Reservations
-* Analytics
-* Authentication & Authorization
+- Monorepo
+- REST API
+- Modular Backend
+- Responsive Frontend
+- PostgreSQL Database
+- Prisma ORM
+- JWT Authentication
+- RBAC
+- CMS
 
 ---
 
-## 🚗 Vehicle Dealership Management & POS System
+## Platform Modules
 
-Enterprise-level MERN application developed for vehicle dealerships.
+### Public Website
+
+- Luxury Landing Pages
+- Marina Information
+- Experiences
+- Blog
+- Gallery
+- Contact
+
+### Customer Dashboard
+
+- User Profile
+- Settings
+- Notifications
+- Booking History
+- Favorite Places
+
+- Restaurant Reservations
+- Yacht Bookings
+- Event Reservations
+- Hotel Reservations
+- Taxi Reservations
+
+- Restaurant Reviews
+- Restaurant Ratings
+- Feedback
+
+---
+
+### Restaurant Dashboard
+
+- Restaurant Profile
+- Menu Management
+- Categories
+- Table Management
+- Reservations
+- Customer Reviews
+- Analytics
+
+---
+
+### Yacht Provider Dashboard
+
+- Yacht Management
+- Fleet Management
+- Pricing
+- Booking Requests
+- Availability Calendar
+
+---
+
+### Admin Dashboard
+
+- CMS
+- Users
+- Restaurants
+- Yacht Providers
+- Hotels
+- Events
+- Experiences
+- Announcements
+- Contact Requests
+- Newsletter
+- Analytics
+
+---
+
+### AI Features
+
+- AI Visitor Assistant
+
+---
+
+### Maps
+
+- Interactive Marina Maps
+- Future 3D Marina Navigation
+
+---
+
+### Additional Services
+
+- Hotel Reservation
+- Taxi Booking
+- Luxury Experiences
+- Reviews & Ratings
+- Newsletter
+- Media Gallery
+- Blog
+
+---
+
+# 🚗 Vehicle Dealership & POS Management System
+
+Enterprise MERN application developed for vehicle dealerships.
 
 ### Features
 
-* Multi-role Authentication
-* Admin Dashboard
-* Accountant Dashboard
-* Clerk Dashboard
-* Inventory Management
-* Sales Management
-* Payroll
-* Expenses
-* Income
-* Transactions
-* Reports
-* Charts & Analytics
+- Authentication
+- Multi-role System
+- Admin Dashboard
+- Accountant Dashboard
+- Clerk Dashboard
+- Vehicle Inventory
+- POS
+- Sales
+- Expenses
+- Income
+- Payroll
+- Transactions
+- Reports
+- Charts
+- Analytics
 
 ---
 
-## 💻 The Digital Hub Website
+# 💻 Digital Hub Website
 
-Professional Laravel web platform representing The Digital Hub.
+Professional Laravel platform representing The Digital Hub.
 
 ### Features
 
-* Authentication
-* Role-Based Access Control
-* Admin Dashboard
-* Responsive Design
-* Content Management
-* Digital Programs Showcase
+- Authentication
+- CMS
+- Programs
+- Responsive Design
+- Admin Dashboard
+- User Management
 
 ---
 
@@ -168,61 +242,93 @@ Professional Laravel web platform representing The Digital Hub.
 
 ## Frontend
 
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Bootstrap
-
-## Backend
-
-* Node.js
-* Express.js
-* Laravel
-* PHP
-
-## Databases
-
-* MongoDB
-* MySQL
-* Prisma ORM
-
-## Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Figma
+- Next.js
+- React.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
 ---
 
-# 📈 What I'm Currently Working On
+## Backend
 
-* 🚤 Zaitunay Bay Digital Platform
-* 🤖 AI-powered tourism experiences
-* 🗺️ Interactive 3D maps
-* 📚 Building software engineering curricula
-* 🎓 Teaching Full Stack Development
+- NestJS
+- Node.js
+- Express.js
+- Laravel
+- PHP
+
+---
+
+## Database
+
+- PostgreSQL
+- MongoDB
+- MySQL
+
+---
+
+## ORM
+
+- Prisma ORM
+- Mongoose
+
+---
+
+## Authentication
+
+- JWT
+- RBAC
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- pgAdmin
+- Figma
+- Trello
+
+---
+
+# 🚀 Current Focus
+
+- Enterprise Marina Platform
+- AI Integration
+- Interactive Maps
+- PostgreSQL Architecture
+- NestJS APIs
+- Technical Leadership
+- Software Engineering Curriculum Development
 
 ---
 
 # 🎯 Career Goal
 
-To contribute as a Software Engineer in an innovative company where I can build scalable applications, lead impactful projects, and continue growing as both an engineer and technical leader.
+To join an innovative organization where I can contribute as a Full Stack Software Engineer and Technical Lead, building scalable products while mentoring teams and delivering impactful digital solutions.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammadBalqis&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBalqis&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadBalqis&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBalqis&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img height="165" src="https://streak-stats.demolab.com?user=MohammadBalqis&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=MohammadBalqis&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -230,25 +336,27 @@ To contribute as a Software Engineer in an innovative company where I can build 
 # 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=MohammadBalqis&theme=tokyonight&no-frame=true"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="mailto:mohammad.balqis284@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-balqis/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/MohammadBalqis">
-<img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -256,5 +364,7 @@ To contribute as a Software Engineer in an innovative company where I can build 
 ---
 
 <p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:0078D7&height=100&section=footer"/>
+
 </p>
