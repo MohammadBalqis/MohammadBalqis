@@ -504,35 +504,6 @@ I aim to work with organizations that value innovation, teamwork, and technology
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadBalqis&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadBalqis&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=MohammadBalqis&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohammadBalqis&theme=tokyonight&no-frame=true"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
